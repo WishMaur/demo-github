@@ -1,2 +1,2 @@
 # demo-github
-this is practical of git and github
+This isdemo for git and github class.
